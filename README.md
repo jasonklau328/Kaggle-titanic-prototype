@@ -24,7 +24,7 @@ We also include gender_submission.csv, a set of predictions that assume all and 
 * Machine Learning Model
   * Logistics regession
   * Support Vector Machine
-  * Suppor Vector Machine with Grid Search
+  * Support Vector Machine with Grid Search
   * Random forest
   * Random forest with Grid Search
   * AdaBoostClassifier with Grid Search
