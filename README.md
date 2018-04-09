@@ -15,8 +15,17 @@ The test set should be used to see how well your model performs on unseen data. 
 We also include gender_submission.csv, a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like
 
 # Table of Content
-1. Data preprocessing
-  1.Import libraries
-  2.Import dataset
-2. Exploratory Data Analysis
-3. Machine Learning Model
+* Data preprocessing
+  * Import libraries
+  * Import dataset
+  * Outliers Detection
+  * Handling missing data
+* Exploratory Data Analysis
+* Machine Learning Model
+  * Logistics regession
+  * Support Vector Machine
+  * Suppor Vector Machine with Grid Search
+  * Random forest
+  * Random forest with Grid Search
+  * AdaBoostClassifier with Grid Search
+  * Gradient boosting with Grid Search
