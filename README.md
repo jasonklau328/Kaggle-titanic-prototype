@@ -32,3 +32,4 @@ Objective of this notebook:Using basic machine learning model to predict outcome
   * Random forest with Grid Search
   * AdaBoostClassifier with Grid Search
   * Gradient boosting with Grid Search
+* Conclusion
